@@ -6,5 +6,6 @@
         <attr name="rubyTextSize" format="dimension"/>
         <attr name="rubyTextColor" format="color"/>
         <attr name="spacing" format="dimension"/>
+        <attr name="lineSpacingExtra" format="dimension"/>
     </declare-styleable>
 </resources>
