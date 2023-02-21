@@ -15,8 +15,6 @@ Add the [jitpack](https://jitpack.io/) repository.
 Use
 ```java
 implementation 'com.github.tombaileywzd:RubyTextView:1.4.0'
-
-compile 'me.weilunli.views:rubytextview:1.4.0'
 ```
 ## How to use
 ### XML Layout 
