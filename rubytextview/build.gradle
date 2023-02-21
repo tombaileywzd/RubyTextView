@@ -37,7 +37,7 @@ publish {
     userOrg = 'tombaileywzd'
     groupId = 'me.weilunli.views'
     artifactId = 'rubytextview'
-    publishVersion = '1.4.0'
+    publishVersion = '1.4.1'
     desc = 'RubyTextView is an android view that can create TextView with ruby text, like furigana in Japanese or pinyin in Chinese.'
     website = 'https://github.com/tombaileywzd/RubyTextView'
 }
